@@ -32,7 +32,7 @@ The dataset can be downloaded as seen in the link
 
 2.The data model is attached in the link also, however it can be recreated via lucid chart.
 
-3. The code for the Creation for the tables , data cleansing and loading of data are in the main jupyter file.
+3.The code for the Creation for the tables , data cleansing and loading of data are in the main jupyter file.
 
 
 Contributing
