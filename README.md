@@ -1,15 +1,18 @@
 # DataEngineering-Project
 
-This project involves downloading a dataset, creating a data model, performing data cleansing, creating tables in MySQL using Python, and loading the data.
+Data Engineering Project
+This project focuses on downloading a dataset, creating a data model, performing data cleansing, creating tables in MySQL using Python, and loading the data into the database. The purpose of this documentation is to provide a comprehensive guide for setting up and running the project successfully.
 
 Prerequisites
-Before running the code, ensure you have the following prerequisites installed:
+Before running the code, please ensure that you have the following prerequisites installed:
 
 Python 3.x
 MySQL server
-Additionally, the project requires an internet connection to download the dataset.
+Additionally, an internet connection is required to download the dataset.
 
 Installation
+To get started with the project, follow these steps:
+
 Clone the repository to your local machine:
 bash
 Copy code
@@ -18,25 +21,24 @@ Install the required Python dependencies:
 bash
 Copy code
 pip install -r requirements.txt
-Set up MySQL database:
-
+Set up the MySQL database:
 Install MySQL server if not already installed.
 Create a new database.
 Update the MySQL connection settings in the code (config.py or a similar file) with your database credentials.
-
 Usage
+The project can be used as follows:
 
-1.Downloading the dataset:
+Downloading the dataset:
 
-The dataset can be downloaded as seen above
+The dataset can be downloaded as described in the project.
+Data Model:
 
-2.The data model is attached above also, however it can be recreated via lucid chart.
+The data model is provided above. Alternatively, it can be recreated using tools like Lucidchart or other data modeling software.
+Code Execution:
 
-3.The code for the Creation for the tables , data cleansing and loading of data are in the main jupyter file.
-
-
+The code for table creation, data cleansing, and data loading can be found in the main Jupyter file. Execute the code sequentially to perform the necessary tasks.
 Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please submit a pull request or open an issue in the repository.
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, please submit a pull request or open an issue in the repository.
 
 License
 This project is licensed under the MIT License.
