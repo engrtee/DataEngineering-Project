@@ -28,9 +28,9 @@ Usage
 
 1.Downloading the dataset:
 
-The dataset can be downloaded as seen in the link
+The dataset can be downloaded as seen above
 
-2.The data model is attached in the link also, however it can be recreated via lucid chart.
+2.The data model is attached above also, however it can be recreated via lucid chart.
 
 3.The code for the Creation for the tables , data cleansing and loading of data are in the main jupyter file.
 
