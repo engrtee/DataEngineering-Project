@@ -21,7 +21,7 @@ The data model is provided above. Alternatively, it can be recreated using tools
 Code Execution:
 
 The code for table creation, data cleansing, and data loading can be found in the main Jupyter file. Execute the code sequentially to perform the necessary tasks.
-Contributing
+
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please submit a pull request or open an issue in the repository.
 
 License
